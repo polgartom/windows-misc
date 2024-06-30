@@ -1,0 +1,1 @@
+Copy the directories to root directory of C:\ drive
